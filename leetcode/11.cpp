@@ -27,6 +27,6 @@ runtime
     time: 0ms
     beats: 100.00%
 memory
-    amt: 15.29MB
-    beats: 37.64%
+    amt: 62.89MB
+    beats: 77.80%
 */
